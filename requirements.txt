@@ -1,0 +1,10 @@
+customtkinter
+scrapy
+requests
+python-whois
+lxml
+twisted
+cryptography
+pyopenssl
+service_identity
+beautifulsoup4
