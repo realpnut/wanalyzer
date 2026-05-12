@@ -5,7 +5,7 @@
 Simple gui tool for basic website reconnaissance and crawling. It performs IP lookup, WHOIS checks, optional robots.txt fetching, and recursively crawls internal links up to a user-defined depth.
 
 ## Demonstration
-![demo](demo.gif)
+![demo](demo/demo.gif)
 
 ## Installation
 ```bash
