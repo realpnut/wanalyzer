@@ -1,6 +1,6 @@
 
 # WAnalyzer
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![Status](https://img.shields.io/badge/status-active-green) ![GUI](https://img.shields.io/badge/GUI-Tkinter%2FCustomTkinter-orange) ![Purpose](https://img.shields.io/badge/purpose-educational-yellow) ![Tool](https://img.shields.io/badge/tool-web%20recon-red) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.8-blue) ![Status](https://img.shields.io/badge/status-unsure-yellow) ![GUI](https://img.shields.io/badge/GUI-Tkinter%2FCustomTkinter-orange) ![Purpose](https://img.shields.io/badge/purpose-educational-yellow) ![Tool](https://img.shields.io/badge/tool-web%20recon-red) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Simple gui tool for basic website reconnaissance and crawling. It performs IP lookup, WHOIS checks, optional robots.txt fetching, and recursively crawls internal links up to a user-defined depth.
 
